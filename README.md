@@ -1,4 +1,4 @@
-# WP EasyCamp Booking 🏕️
+# EasyCamp Booking 🏕️
 
 [![WordPress Version](https://img.shields.io/badge/WordPress-5.0+-blue.svg)](https://wordpress.org)
 [![PHP Version](https://img.shields.io/badge/PHP-7.4+-green.svg)](https://php.net)
@@ -16,13 +16,13 @@ Ein leichtgewichtiges, aber leistungsstarkes Buchungssystem für Campingplätze 
 ## 🚀 Installation
 
 - per .Zip Datei:
-  1. Lade die Datei WP-EasyCamp-booking.zip und installiere in Wordpress-Backend damit das PlugIn.
+  1. Lade die Datei EasyCamp-booking.zip und installiere in Wordpress-Backend damit das PlugIn.
   2. Aktiviere das Plugin im WordPress-Backend.
   3. Konfiguriere die Einstellungen unter dem Menüpunkt **EasyCamp**.
   4. Nutze den Shortcode `[easycamp_form]` auf einer beliebigen Seite.
 
 - Installation per FTP: 
-1. Erstelle den Ordner `wp-easycamp-booking` in deinem Verzeichnis `/wp-content/plugins/` und lade alle Dateien hinein.
+1. Erstelle den Ordner `easycamp-booking` in deinem Verzeichnis `/wp-content/plugins/` und lade alle Dateien hinein.
 2. Aktiviere das Plugin im WordPress-Backend.
 3. Konfiguriere die Einstellungen unter dem Menüpunkt **EasyCamp**.
 4. Nutze den Shortcode `[easycamp_form]` auf einer beliebigen Seite.
